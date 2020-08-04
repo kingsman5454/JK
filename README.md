@@ -1,2 +1,0 @@
-# JK
-GitHub Pages
